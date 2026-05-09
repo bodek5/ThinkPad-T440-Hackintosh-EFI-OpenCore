@@ -24,4 +24,24 @@ tell me more
 * Sonoma - i Tested ventura and Sequoia, (so i think sonoma will work)
 * Tahoe (it can work but i dont tested)
 
+## BIOS SETTINGS
+
+SECURITY TAB:
+[✓] Security Chip = Disabled
+[✓] Memory Protection > Execution Prevention = Enabled
+[✓] Virtualization = Enabled
+[✓] Intel (R) AT Module Activation = Disabled
+[✓] Computrace = Disabled
+[✓] Secure Boot = Disabled
+[✓] Fingerprint Reader = Disabled
+
+STARTUP TAB:
+[✓] UEFI/Legacy Boot = Both
+[✓] UEFI/Legacy Priority = UEFI First
+[✓] CSM Support = Yes
+[✓] Boot Mode = Quick
+
+CONFIG TAB:
+[✓] Graphics Memory = 64MB or higher
+
 ## Thanks to:
