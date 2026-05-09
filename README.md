@@ -21,7 +21,7 @@ tell me more
 * Sequoia (you must wifi drivers (HeliPort etc) and patch graphicts, no bluetooth, you can try fix)
 
 ## Untested:
-* Sonoma - i Tested ventura and Sequoia, so i think sonoma will work)
+* Sonoma - i Tested ventura and Sequoia, (so i think sonoma will work)
 * Tahoe (it can work but i dont tested)
 
 ## Thanks to:
