@@ -1,5 +1,5 @@
 # ThinkPad-T440-Hackintosh-EFI-OpenCore
-ThinkPad T440 Mackintosh EFI OpenCore 1.0.1
+ThinkPad T440 Hackintosh EFI OpenCore 1.0.1
 
 ## What works?
 * Graphicts acceleration
@@ -12,7 +12,7 @@ and some more
 * Camera (fixable)
 * FingerPrint scanner
 * Bluetooth (fixable)
-tell me more
+* tell me more
 
 ## Working versions:
 * Monterey (full, no bluetooth, you can try fix)
@@ -25,3 +25,4 @@ tell me more
 * Tahoe (it can work but i dont tested)
 
 ## Thanks to:
+* MultimediaLucaro (https://github.com/MultimediaLucario/Lenovo-ThinkPad-T440) for base of folder
