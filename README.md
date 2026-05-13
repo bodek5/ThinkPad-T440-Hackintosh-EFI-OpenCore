@@ -1,5 +1,5 @@
 # ThinkPad-T440-Hackintosh-EFI-OpenCore
-ThinkPad T440 Hackintosh EFI OpenCore 1.0.1
+ThinkPad T440 Hackintosh EFI OpenCore 1.0.7
 
 ## What works?
 * Graphicts acceleration
@@ -21,10 +21,10 @@ ThinkPad T440 Hackintosh EFI OpenCore 1.0.1
 * Ventura (you must update AirportItlwm to Ventura and patch graphicts, no bluetooth, you can try fix)
 * Sonoma (you must update AirportItlwm to Sonoma and patch graphicts, no bluetooth, you can try fix)
 * Sequoia (you must wifi drivers (HeliPort etc) and patch graphicts, no bluetooth, you can try fix)
+* Tahoe! ONLY STARTS WITH 5MB VRAM, BUT WORKING, OCLP, OCLP+ and OCLP mod dont patch the graphicts. WIFI WORKS
 
 ## Untested:
 * Sonoma - i Tested ventura and Sequoia, (so i think sonoma will work)
-* Tahoe (it can work but i dont tested)
 * Versions older than Monterey (someone said they work)
 
 ## HOW TO PATCH??
